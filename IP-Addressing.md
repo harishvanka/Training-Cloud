@@ -8,3 +8,4 @@
 ## Here is how binary octets convert to decimal:
 * The right most bit, or least significant bit, of an octet holds a value of 2^0
 * The address is made up of 32 binary bits, which can be divisible into a network portion and host portion with the help of a subnet mask.
+lkfalhfl
